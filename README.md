@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @rajeshpotter
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-rajeshpotter/rajeshpotter is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Hi, I’m @rajeshprajapati126
+- 👀 I’m interested in Python-related technologies
+- 🌱 I’m currently learning Machine learning
+- 💞️ I’m looking to collaborate on Data Engineering projects
+- 📫 You reach me on any social media using my user name rajeshprajapati126_
